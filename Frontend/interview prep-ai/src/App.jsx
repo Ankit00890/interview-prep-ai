@@ -12,7 +12,7 @@ import UserProvider from './context/userContext';
 const App = () => {
   return (
     <UserProvider>
-    <div classname="px-2">
+    <div>
       <Router>
         <Routes>
           {/* default pages */}
