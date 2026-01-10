@@ -87,7 +87,7 @@ const LandingPage = () => {
 
           </div>
         </div>
-      </div>
+     
 
       {/* part2 */}
         <div className="w-full relative z-10">
@@ -101,7 +101,7 @@ const LandingPage = () => {
           />
         </section>
       </div>
-
+         </div>
       {/* part3 */}
       <div className="w-full min-h-full bg-[#FFFCEF] mt-10">
         <div className="container mx-auto px-4 pt-10 pb-20">
