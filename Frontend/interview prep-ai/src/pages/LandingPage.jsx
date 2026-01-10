@@ -90,12 +90,12 @@ const LandingPage = () => {
       </div>
 
       {/* part2 */}
-      <div className="w-full relative z-10">
+        <div className="w-full relative z-10">
         <section className="
-    flex items-center justify-center 
-    -mt-[80px]        /* mobile */
-    md:-mt-[150px]    /* tablets */
-    lg:-mt-[380px]    /* desktop */">
+    flex justify-center 
+    -mt-[80px]        
+    md:-mt-[150px]   
+    lg:-mt-[380px]" >  
           <img
             src={HERO_IMG}
             alt="HERO IMAGE"
