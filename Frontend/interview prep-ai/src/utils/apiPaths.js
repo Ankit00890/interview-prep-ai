@@ -1,6 +1,6 @@
 
 // export const BASE_URL = "http://localhost:8000";
-export const BASE_URL = "https://interview-prep-ai-t5aq.onrender.com";
+export const BASE_URL = "https://interview-prep-ai-691u.onrender.com";
 export const API_PATHS = {
   AUTH: {
     REGISTER: "/api/auth/register",   // Signup
